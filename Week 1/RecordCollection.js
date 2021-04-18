@@ -9,9 +9,9 @@ var collection = {
 	},
 	"1456": {
 		"album":"humma",		
-		"artist":"arijit1",		// Created a record collection with different information// 
+		"artist":"arijit1",		
 		"tracks": [
-			"kyun",
+			"kyun",			// Created a record collection with different information// 
 			"suno"
 		]
 	},
