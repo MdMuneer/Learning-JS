@@ -14,4 +14,4 @@ var product  = multipltAll([[1,2],[3,4],[5,6,7]]);
 
 console.log(product)
 
-//nested for loop for multiplacation //
+//nested for loop for multiplacation. //
