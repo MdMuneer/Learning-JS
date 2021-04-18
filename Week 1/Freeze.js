@@ -2,6 +2,7 @@
   const MATH_CONSTANTS = {
     PI: 3.14
   };
+  
   // frozen math_const
 object.freeze(MATH_CONSTANTS);
 
