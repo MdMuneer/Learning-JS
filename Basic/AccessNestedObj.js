@@ -7,7 +7,7 @@ var myPlants = [
       "dandelion"
     ]
   },
-  {
+  {                     //basic nested collection
     type: "trees",
     list: [
       "fir",
