@@ -3,7 +3,7 @@ function  caseInSwitch(val) {
 	switch(val) {
 	case 1:
 	  answer  = "apple";
-	  break;
+	  break;			//switch cases
 	case 2:
 	  answer  = "apple";
 	  break;
