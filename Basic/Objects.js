@@ -9,7 +9,7 @@ var lookup = {
 };
 result= lookup[val];
 
-return result;
+return result;			//random lookup
 }
 
 
