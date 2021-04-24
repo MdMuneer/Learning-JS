@@ -11,7 +11,7 @@ function z() {
 }
 z();
 
-//few uses of closure:
+//few uses of closure are:
 //module design pattern
 //currying
 //function like once
