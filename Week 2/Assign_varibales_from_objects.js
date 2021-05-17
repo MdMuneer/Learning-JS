@@ -19,7 +19,7 @@ function getTempOfTmrw(avgTemparatures) {
 
 	const { tomorrow : tempOfTomorrow } = avgTemparatures; 
 
-	//get the tomorrow field from avgTemparatures object and assign it to tempOfTomorrow variable//
+	//get the tomorrow field from avgTemparatures object and assign it to tempOfTomorrow variable..//
 
 	return tempOfTomorrow;
 
